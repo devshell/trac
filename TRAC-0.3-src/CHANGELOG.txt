@@ -1,0 +1,27 @@
+	v0.3
+- Trac now shows colour in console, allows for more than
+seven columns to be used in the csv file, and it also
+has a note on how to exit the program.
+
+Source code has been commented in the trac.cpp file to make
+it easier to modify and contribute to this project.
+
+------------------------------------------------------------
+	v0.2 - BETA
+
+- TRAC now uses the row titles as the names to compare to
+the .layout file data. This allows the printing of any
+data configured in any way. My goal was to limit the amount
+of different files to configure while maximize the amount
+of things that can be done.
+
+
+------------------------------------------------------------
+	v0.1 - ALPHA
+
+- First release, this program allows the filling out of a
+report through taking data from an excel file and fills out
+a .print file using the layout from the .layout file.
+
+The initial purpose of this app is to fill-out 20,000
+tax reciepts using an excel table of data.
